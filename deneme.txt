@@ -1,3 +1,1 @@
 print("pattis");
-int a = 5;
-float b = 7.4f;
